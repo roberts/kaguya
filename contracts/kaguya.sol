@@ -1,6 +1,11 @@
 /**
  *
  *
+   $KAGUYA on base
+   https://PSKAGUYA.xyz
+   https://x.com/kaguyaonbase
+   https://t.me/kaguyaonbase
+
    Contract features:
    100,000 tokens
    3% buy tax in ETH sent to community, marketing & developer
