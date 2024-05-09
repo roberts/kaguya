@@ -1204,7 +1204,7 @@ contract kaguya is ERC20, Ownable {
         address indexed oldWallet
     );
 
-    constructor() ERC20("Kaguya token gated internet computer club", "KAGUYA") {
+    constructor() ERC20("KAGUYA", "KAGUYA") {
         uniswapV2Router = IUniswapV2Router02(
             0x4752ba5DBc23f44D87826276BF6Fd6b1C372aD24
         );
