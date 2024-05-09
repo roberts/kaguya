@@ -1150,7 +1150,7 @@ contract kaguya is ERC20, Ownable {
         address(0x000000000000000000000000000000000000dEaD);
 
     string public exchangeLink = "https://app.uniswap.or/swap";
-    string public websiteLink = "https://DrewRoberts.com";
+    string public websiteLink = "https://PSKAGUYA.com";
 
     address public communityWallet;
     address public marketingWallet;
