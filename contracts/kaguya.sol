@@ -1232,7 +1232,7 @@ contract kaguya is ERC20, Ownable {
             developerLopsidedSellTax;
 
         communityWallet = address(0xd1ffB232f8CF5B40eC2306A88e4c373306Be1fC2); // Community Funds
-        marketingWallet = address(0xC6aa2f0FF6b8563EA418ec2558890D6027413699); // Marketing Funds
+        marketingWallet = address(0x31684193B9419B93579417b8C762ef95E4E63558); // Marketing Funds
         developerWallet = address(0xC6aa2f0FF6b8563EA418ec2558890D6027413699); // Developer Funds
 
         _mint(address(this), totalSupply);
