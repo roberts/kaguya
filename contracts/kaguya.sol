@@ -1,7 +1,7 @@
 /**
  *
  *
-   $KAGUYA on base
+   $KAGUYA on base chain
    https://PSKAGUYA.xyz
    https://x.com/kaguyaonbase
    https://t.me/kaguyaonbase
@@ -1212,10 +1212,10 @@ contract kaguya is ERC20, Ownable {
 
         uint256 totalSupply = 100_000 ether;
 
-        swapTokenAmount = totalSupply / 2000; // 0.05% of total supply (50,000 tokens)
+        swapTokenAmount = totalSupply / 2000; // 0.05% of total supply (50 tokens)
 
-        restrictMaxTransaction = totalSupply / 100; // 1% of total supply (1,000,000 tokens)
-        restrictMaxWallet = totalSupply / 20; // 5% of total supply (5,000,000 tokens)
+        restrictMaxTransaction = totalSupply / 100; // 1% of total supply (1,000 tokens)
+        restrictMaxWallet = totalSupply / 20; // 5% of total supply (5,000 tokens)
 
         communityTax = 1;
         marketingTax = 1;
